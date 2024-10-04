@@ -1,0 +1,36 @@
+/* src/displayinfo.css */
+.perk-slots {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .perk-slot {
+    position: relative;
+    width: 100px; /* Set a fixed width for the perk container */
+    height: 100px; /* Set a fixed height for the perk container */
+    overflow: hidden; /* Hide any overflow */
+    border: 1px solid #ccc; /* Optional: Add a border for better visibility */
+    border-radius: 5px; /* Optional: Add border radius for rounded corners */
+  }
+  
+  .perk-slot img {
+    width: 100%; /* Make the image take up the full width of the container */
+    height: 100%; /* Make the image take up the full height of the container */
+    object-fit: cover; /* Ensure the image covers the container without distortion */
+  }
+  
+  .perk-name {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    display: none;
+  }
+  
+  .perk-slot:hover .perk-name {
+    display: block;
+  }

@@ -1,0 +1,2112 @@
+{
+  "characters": [
+    {
+      "id": "Chuckles",
+      "name": "The Trapper",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/K01_TheTrapper_Portrait.png"
+    },
+    {
+      "id": "Bob",
+      "name": "The Wraith",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/K02_TheWraith_Portrait.png"
+    },
+    {
+      "id": "HillBilly",
+      "name": "The Hillbilly",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/K03_TheHillbilly_Portrait.png"
+    },
+    {
+      "id": "Nurse",
+      "name": "The Nurse",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/K04_TheNurse_Portrait.png"
+    },
+    {
+      "id": "Witch",
+      "name": "The Hag",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/DLC3/K05_TheHag_Portrait.png"
+    },
+    {
+      "id": "Shape",
+      "name": "The Shape",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/DLC2/K06_TheShape_Portrait.png"
+    },
+    {
+      "id": "Killer07",
+      "name": "The Doctor",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/DLC4/K07_TheDoctor_Portrait.png"
+    },
+    {
+      "id": "Bear",
+      "name": "The Huntress",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/DLC5/K08_TheHuntress_Portrait.png"
+    },
+    {
+      "id": "Cannibal",
+      "name": "The Cannibal",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Cannibal/K09_TheCannibal_Portrait.png"
+    },
+    {
+      "id": "Nightmare",
+      "name": "The Nightmare",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/England/K10_TheNightmare_Portrait.png"
+    },
+    {
+      "id": "Pig",
+      "name": "The Pig",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Finland/K11_ThePig_Portrait.png"
+    },
+    {
+      "id": "Clown",
+      "name": "The Clown",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Guam/K12_TheClown_Portrait.png"
+    },
+    {
+      "id": "Spirit",
+      "name": "The Spirit",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Haiti/K13_TheSpirit_Portrait.png"
+    },
+    {
+      "id": "Legion",
+      "name": "The Legion",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Kenya/K14_TheLegion_Portrait.png"
+    },
+    {
+      "id": "Plague",
+      "name": "The Plague",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Mali/K15_ThePlague_Portrait.png"
+    },
+    {
+      "id": "Ghostface",
+      "name": "The Ghost Face",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Oman/K16_TheGhostface_Portrait.png"
+    },
+    {
+      "id": "Demogorgon",
+      "name": "The Demogorgon",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Qatar/K17_TheDemogorgon_Portrait.png"
+    },
+    {
+      "id": "Oni",
+      "name": "The Oni",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Sweden/K18_TheOni_Portrait.png"
+    },
+    {
+      "id": "Gunslinger",
+      "name": "The Deathslinger",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Ukraine/K19_TheDeathslinger_Portrait.png"
+    },
+    {
+      "id": "K20",
+      "name": "The Executioner",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Wales/K20_TheExecutioner_Portrait.png"
+    },
+    {
+      "id": "K21",
+      "name": "The Blight",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Yemen/K21_TheBlight_Portrait.png"
+    },
+    {
+      "id": "K22",
+      "name": "The Twins",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Aurora/K22_TheTwins_Portrait.png"
+    },
+    {
+      "id": "K23",
+      "name": "The Trickster",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Comet/K23_TheTrickster_Portrait.png"
+    },
+    {
+      "id": "K24",
+      "name": "The Nemesis",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Eclipse/K24_TheNemesis_Portrait.png"
+    },
+    {
+      "id": "K25",
+      "name": "The Cenobite",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Gemini/K25_TheCenobite_Portrait.png"
+    },
+    {
+      "id": "K26",
+      "name": "The Artist",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Ion/K26_TheArtist_Portrait.png"
+    },
+    {
+      "id": "K27",
+      "name": "The Onryō",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Kepler/K27_TheOnryo_Portrait.png"
+    },
+    {
+      "id": "K28",
+      "name": "The Dredge",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Meteor/K28_TheDredge_Portrait.png"
+    },
+    {
+      "id": "K29",
+      "name": "The Mastermind",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Orion/K29_TheMasterMind_Portrait.png"
+    },
+    {
+      "id": "K30",
+      "name": "The Knight",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Quantum/K30_TheKnight_Portrait.png"
+    },
+    {
+      "id": "K31",
+      "name": "The Skull Merchant",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Saturn/K31_TheSkullMerchant_Portrait.png"
+    },
+    {
+      "id": "K32",
+      "name": "The Singularity",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Umbra/K32_TheSingularity_Portrait.png"
+    },
+    {
+      "id": "K33",
+      "name": "The Xenomorph",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Wormhole/K33_TheXenomorph_Portrait.png"
+    },
+    {
+      "id": "K34",
+      "name": "The Good Guy",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Yerkes/K34_TheYerkes_Portrait.png"
+    },
+    {
+      "id": "K35",
+      "name": "The Unknown",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Applepie/K35_TheUnknown_Portrait.png"
+    },
+    {
+      "id": "K36",
+      "name": "The Lich",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Churros/K36_TheLich_Portrait.png"
+    },
+    {
+      "id": "K37",
+      "name": "The Dark Lord",
+      "role": "killer",
+      "image": "UI/Icons/CharPortraits/Eclair/K37_TheDracula_Portrait.png"
+    },
+    {
+      "id": "Dwight",
+      "name": "Dwight Fairfield",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/S01_DwightFairfield_Portrait.png"
+    },
+    {
+      "id": "Meg",
+      "name": "Meg Thomas",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/S02_MegThomas_Portrait.png"
+    },
+    {
+      "id": "Claudette",
+      "name": "Claudette Morel",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/S03_ClaudetteMorel_Portrait.png"
+    },
+    {
+      "id": "Jake",
+      "name": "Jake Park",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/S04_JakePark_Portrait.png"
+    },
+    {
+      "id": "Nea",
+      "name": "Nea Karlsson",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/S05_NeaKarlsson_Portrait.png"
+    },
+    {
+      "id": "Laurie",
+      "name": "Laurie Strode",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/DLC2/S06_LaurieStrode_Portrait.png"
+    },
+    {
+      "id": "Ace",
+      "name": "Ace Visconti",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/DLC3/S07_AceVisconti_Portrait.png"
+    },
+    {
+      "id": "Bill",
+      "name": "William \"Bill\" Overbeck",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/L4D/S08_WilliamBillOverbeck_Portrait.png"
+    },
+    {
+      "id": "Feng",
+      "name": "Feng Min",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/DLC4/S09_FengMin_Portrait.png"
+    },
+    {
+      "id": "Smoke",
+      "name": "David King",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/DLC5/S10_DavidKing_Portrait.png"
+    },
+    {
+      "id": "Kate",
+      "name": "Kate Denson",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Guam/S13_KateDenson_Portrait.png"
+    },
+    {
+      "id": "Quentin",
+      "name": "Quentin Smith",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/England/S11_QuentinSmith_Portrait.png"
+    },
+    {
+      "id": "Eric",
+      "name": "Detective Tapp",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Finland/S12_DetectiveDavidTapp_Portrait.png"
+    },
+    {
+      "id": "Adam",
+      "name": "Adam Francis",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Haiti/S14_AdamFrancis_Portrait.png"
+    },
+    {
+      "id": "Jeff",
+      "name": "Jeff Johansen",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Kenya/S15_JeffJohansen_Portrait.png"
+    },
+    {
+      "id": "Jane",
+      "name": "Jane Romero",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Mali/S16_JaneRomero_Portrait.png"
+    },
+    {
+      "id": "Ash",
+      "name": "Ashley J. Williams",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Ash/S17_AshleyJWilliams_Portrait.png"
+    },
+    {
+      "id": "Nancy",
+      "name": "Nancy Wheeler",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Qatar/S19_NancyWheeler_Portrait.png"
+    },
+    {
+      "id": "Steve",
+      "name": "Steve Harrington",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Qatar/S18_SteveHarrington_Portrait.png"
+    },
+    {
+      "id": "Yui",
+      "name": "Yui Kimura",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Sweden/S20_YuiKimura_Portrait.png"
+    },
+    {
+      "id": "Zarina",
+      "name": "Zarina Kassir",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Ukraine/S21_ZarinaKassir_Portrait.png"
+    },
+    {
+      "id": "S22",
+      "name": "Cheryl Mason",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Wales/S22_CherylMason_Portrait.png"
+    },
+    {
+      "id": "S23",
+      "name": "Felix Richter",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Yemen/S23_FelixRichter_Portrait.png"
+    },
+    {
+      "id": "S24",
+      "name": "Élodie Rakoto",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Aurora/S24_ElodieRakoto_Portrait.png"
+    },
+    {
+      "id": "S25",
+      "name": "Yun-Jin Lee",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Comet/S25_YunJinLee_Portrait.png"
+    },
+    {
+      "id": "S26",
+      "name": "Jill Valentine",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Eclipse/S26_JillValentine_Portrait.png"
+    },
+    {
+      "id": "S27",
+      "name": "Leon S. Kennedy",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Eclipse/S27_LeonSKennedy_Portrait.png"
+    },
+    {
+      "id": "S28",
+      "name": "Mikaela Reid",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Hubble/S28_MikaelaReid_Portrait.png"
+    },
+    {
+      "id": "S29",
+      "name": "Jonah Vasquez",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Ion/S29_JonahVasquez_Portrait.png"
+    },
+    {
+      "id": "S30",
+      "name": "Yoichi Asakawa",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Kepler/S30_YoichiAsakawa_Portrait.png"
+    },
+    {
+      "id": "S31",
+      "name": "Haddie Kaur",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Meteor/S31_HaddieKaur_Portrait.png"
+    },
+    {
+      "id": "S32",
+      "name": "Ada Wong",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Orion/S32_AdaWong_Portrait.png"
+    },
+    {
+      "id": "S33",
+      "name": "Rebecca Chambers",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Orion/S33_RebeccaChambers_Portrait.png"
+    },
+    {
+      "id": "S34",
+      "name": "Vittorio Toscano",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Quantum/S34_VittorioToscano_Portrait.png"
+    },
+    {
+      "id": "S35",
+      "name": "Thalita Lyra",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Saturn/S35_ThalitaLyra_Portrait.png"
+    },
+    {
+      "id": "S36",
+      "name": "Renato Lyra",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Saturn/S36_RenatoLyra_Portrait.png"
+    },
+    {
+      "id": "S37",
+      "name": "Gabriel Soma",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Umbra/S37_GabrielSoma_Portrait.png"
+    },
+    {
+      "id": "S38",
+      "name": "Nicolas Cage",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Venus/S38_NicolasCage_Portrait.png"
+    },
+    {
+      "id": "S39",
+      "name": "Ellen Ripley",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Wormhole/S39_EllenRipley_Portrait.png"
+    },
+    {
+      "id": "S40",
+      "name": "Alan Wake",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Zodiac/S40_AlanWake_Portrait.png"
+    },
+    {
+      "id": "S41",
+      "name": "Sable Ward",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Applepie/S41_SableWard_Portrait.png"
+    },
+    {
+      "id": "S42",
+      "name": "Aestri Yazar",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Churros/S42_TheTroupe_Portrait.png"
+    },
+    {
+      "id": "S43",
+      "name": "Lara Croft",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Donut/S43_LaraCroft_Portrait.png"
+    },
+    {
+      "id": "S44",
+      "name": "Trevor Belmont",
+      "role": "survivor",
+      "image": "UI/Icons/CharPortraits/Eclair/S44_TrevorBelmont_Portrait.png"
+    }
+  ],
+  "perks": [
+    {
+      "id": "Ace_In_The_Hole",
+      "name": "Ace in the Hole",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_aceInTheHole.png"
+    },
+    {
+      "id": "Adrenaline",
+      "name": "Adrenaline",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_adrenaline.png"
+    },
+    {
+      "id": "Aftercare",
+      "name": "Aftercare",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_aftercare.png"
+    },
+    {
+      "id": "Agitation",
+      "name": "Agitation",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_agitation.png"
+    },
+    {
+      "id": "Alert",
+      "name": "Alert",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_alert.png"
+    },
+    {
+      "id": "AnyMeansNecessary",
+      "name": "Any Means Necessary",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_anyMeansNecessary.png"
+    },
+    {
+      "id": "Autodidact",
+      "name": "Autodidact",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_autodidact.png"
+    },
+    {
+      "id": "Babysitter",
+      "name": "Babysitter",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_babySitter.png"
+    },
+    {
+      "id": "Balanced_Landing",
+      "name": "Balanced Landing",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_balancedLanding.png"
+    },
+    {
+      "id": "Bamboozle",
+      "name": "Bamboozle",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Guam/iconPerks_bamboozle.png"
+    },
+    {
+      "id": "BBQAndChilli",
+      "name": "Barbecue & Chili",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Cannibal/iconPerks_bBQAndChili.png"
+    },
+    {
+      "id": "BeastOfPrey",
+      "name": "Beast of Prey",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_beastOfPrey.png"
+    },
+    {
+      "id": "BetterTogether",
+      "name": "Better Together",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_betterTogether.png"
+    },
+    {
+      "id": "Bitter_Murmur",
+      "name": "Bitter Murmur",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_bitterMurmur.png"
+    },
+    {
+      "id": "BloodEcho",
+      "name": "Blood Echo",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_bloodEcho.png"
+    },
+    {
+      "id": "BloodHound",
+      "name": "Bloodhound",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_bloodhound.png"
+    },
+    {
+      "id": "BloodPact",
+      "name": "Blood Pact",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wales/iconPerks_bloodPact.png"
+    },
+    {
+      "id": "BloodWarden",
+      "name": "Blood Warden",
+      "role": "killer",
+      "image": "UI/Icons/Perks/England/iconPerks_bloodWarden.png"
+    },
+    {
+      "id": "BoilOver",
+      "name": "Boil Over",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kate/iconPerks_boilOver.png"
+    },
+    {
+      "id": "Bond",
+      "name": "Bond",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_bond.png"
+    },
+    {
+      "id": "BoonDestroyer",
+      "name": "Shattered Hope",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_boonDestroyer.png"
+    },
+    {
+      "id": "BorrowedTime",
+      "name": "Borrowed Time",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/L4D/iconPerks_borrowedTime.png"
+    },
+    {
+      "id": "Botany_Knowledge",
+      "name": "Botany Knowledge",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_botanyKnowledge.png"
+    },
+    {
+      "id": "Breakdown",
+      "name": "Breakdown",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_breakdown.png"
+    },
+    {
+      "id": "Breakout",
+      "name": "Breakout",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_breakout.png"
+    },
+    {
+      "id": "Brutal_Strength",
+      "name": "Brutal Strength",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_brutalStrength.png"
+    },
+    {
+      "id": "BuckleUp",
+      "name": "Buckle Up",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ash/iconPerks_buckleUp.png"
+    },
+    {
+      "id": "BuiltToLast",
+      "name": "Built to Last",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_builtToLast.png"
+    },
+    {
+      "id": "Calm_Spirit",
+      "name": "Calm Spirit",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_calmSpirit.png"
+    },
+    {
+      "id": "Camaraderie",
+      "name": "Camaraderie",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_camaraderie.png"
+    },
+    {
+      "id": "CorruptIntervention",
+      "name": "Corrupt Intervention",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Mali/iconPerks_corruptIntervention.png"
+    },
+    {
+      "id": "Coulrophobia",
+      "name": "Coulrophobia",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Guam/iconPerks_coulrophobia.png"
+    },
+    {
+      "id": "CruelConfinement",
+      "name": "Cruel Limits",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_cruelConfinement.png"
+    },
+    {
+      "id": "Dance_with_me",
+      "name": "Dance With Me",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kate/iconPerks_danceWithMe.png"
+    },
+    {
+      "id": "DarkDevotion",
+      "name": "Dark Devotion",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Mali/iconPerks_darkDevotion.png"
+    },
+    {
+      "id": "Dark_Sense",
+      "name": "Dark Sense",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_darkSense.png"
+    },
+    {
+      "id": "DeadHard",
+      "name": "Dead Hard",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_deadHard.png"
+    },
+    {
+      "id": "DeadMansSwitch",
+      "name": "Dead Man’s Switch",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_deadManSwitch.png"
+    },
+    {
+      "id": "Deathbound",
+      "name": "Deathbound",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wales/iconPerks_deathbound.png"
+    },
+    {
+      "id": "DecisiveStrike",
+      "name": "Decisive Strike",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_decisiveStrike.png"
+    },
+    {
+      "id": "Deerstalker",
+      "name": "Deerstalker",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_deerstalker.png"
+    },
+    {
+      "id": "Deja_Vu",
+      "name": "Deja Vu",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_dejaVu.png"
+    },
+    {
+      "id": "Deliverance",
+      "name": "Deliverance",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_deliverance.png"
+    },
+    {
+      "id": "DesperateMeasures",
+      "name": "Desperate Measures",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_desperateMeasures.png"
+    },
+    {
+      "id": "DetectivesHunch",
+      "name": "Detective's Hunch",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Finland/iconPerks_detectivesHunch.png"
+    },
+    {
+      "id": "Discordance",
+      "name": "Discordance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_discordance.png"
+    },
+    {
+      "id": "Distortion",
+      "name": "Distortion",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_distortion.png"
+    },
+    {
+      "id": "Distressing",
+      "name": "Distressing",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_distressing.png"
+    },
+    {
+      "id": "Diversion",
+      "name": "Diversion",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_diversion.png"
+    },
+    {
+      "id": "DragonsGrip",
+      "name": "Dragon’s Grip",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_dragonsGrip.png"
+    },
+    {
+      "id": "Dying_Light",
+      "name": "Dying Light",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_dyingLight.png"
+    },
+    {
+      "id": "Empathy",
+      "name": "Empathy",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_empathy.png"
+    },
+    {
+      "id": "Enduring",
+      "name": "Enduring",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_enduring.png"
+    },
+    {
+      "id": "FireUp",
+      "name": "Fire Up",
+      "role": "killer",
+      "image": "UI/Icons/Perks/England/iconPerks_fireUp.png"
+    },
+    {
+      "id": "Fixated",
+      "name": "Fixated",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_fixated.png"
+    },
+    {
+      "id": "FlipFlop",
+      "name": "Flip-Flop",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ash/iconPerks_flipFlop.png"
+    },
+    {
+      "id": "ForcedPenance",
+      "name": "Forced Penance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wales/iconPerks_forcedPenance.png"
+    },
+    {
+      "id": "ForThePeople",
+      "name": "For the People",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_forThePeople.png"
+    },
+    {
+      "id": "FranklinsLoss",
+      "name": "Franklin's Demise",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Cannibal/iconPerks_franklinsLoss.png"
+    },
+    {
+      "id": "FurtiveChase",
+      "name": "Furtive Chase",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Oman/iconPerks_furtiveChase.png"
+    },
+    {
+      "id": "Gearhead",
+      "name": "Gearhead",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_gearHead.png"
+    },
+    {
+      "id": "GeneratorOvercharge",
+      "name": "Overcharge",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_generatorOvercharge.png"
+    },
+    {
+      "id": "HangmansTrick",
+      "name": "Scourge Hook: Hangman's Trick",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Finland/iconPerks_hangmansTrick.png"
+    },
+    {
+      "id": "HeadOn",
+      "name": "Head On",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Mali/iconPerks_headOn.png"
+    },
+    {
+      "id": "HexBloodFavor",
+      "name": "Hex: Blood Favor",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_hexBloodFavor.png"
+    },
+    {
+      "id": "HexRetribution",
+      "name": "Hex: Retribution",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_hexRetribution.png"
+    },
+    {
+      "id": "HexUndying",
+      "name": "Hex: Undying",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_hexUndying.png"
+    },
+    {
+      "id": "Hex_Devour_Hope",
+      "name": "Hex: Devour Hope",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_devourHope.png"
+    },
+    {
+      "id": "Hex_HauntedGround",
+      "name": "Hex: Haunted Ground",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_hauntedGround.png"
+    },
+    {
+      "id": "Hex_HuntressLullaby",
+      "name": "Hex: Huntress Lullaby",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_huntressLullaby.png"
+    },
+    {
+      "id": "Hex_Ruin",
+      "name": "Hex: Ruin",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_ruin.png"
+    },
+    {
+      "id": "Hex_The_Third_Seal",
+      "name": "Hex: The Third Seal",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_theThirdSeal.png"
+    },
+    {
+      "id": "Hex_Thrill_Of_The_Hunt",
+      "name": "Hex: Thrill of the Hunt",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_thrillOfTheHunt.png"
+    },
+    {
+      "id": "Hope",
+      "name": "Hope",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_hope.png"
+    },
+    {
+      "id": "ImAllEars",
+      "name": "I'm All Ears",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Oman/iconPerks_imAllEars.png"
+    },
+    {
+      "id": "InfectiousFright",
+      "name": "Infectious Fright",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Mali/iconPerks_infectiousFright.png"
+    },
+    {
+      "id": "InnerStrength",
+      "name": "Inner Strength",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_innerStrength.png"
+    },
+    {
+      "id": "Insidious",
+      "name": "Insidious",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_insidious.png"
+    },
+    {
+      "id": "InTheDark",
+      "name": "Knock Out",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Cannibal/iconPerks_knockOut.png"
+    },
+    {
+      "id": "Ironmaiden",
+      "name": "Iron Maiden",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_ironMaiden.png"
+    },
+    {
+      "id": "Iron_Grasp",
+      "name": "Iron Grasp",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_ironGrasp.png"
+    },
+    {
+      "id": "Iron_Will",
+      "name": "Iron Will",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_ironWill.png"
+    },
+    {
+      "id": "K22P01",
+      "name": "Hoarder",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_hoarder.png"
+    },
+    {
+      "id": "K22P02",
+      "name": "Oppression",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_oppression.png"
+    },
+    {
+      "id": "K22P03",
+      "name": "Coup de Grâce",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_coupDeGrace.png"
+    },
+    {
+      "id": "K23P01",
+      "name": "Starstruck",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Comet/iconPerks_starstruck.png"
+    },
+    {
+      "id": "K23P02",
+      "name": "Hex: Crowd Control",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Comet/iconPerks_hexCrowdControl.png"
+    },
+    {
+      "id": "K23P03",
+      "name": "No Way Out",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Comet/iconPerks_noWayOut.png"
+    },
+    {
+      "id": "K24P01",
+      "name": "Lethal Pursuer",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_lethalPursuer.png"
+    },
+    {
+      "id": "K24P02",
+      "name": "Hysteria",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_hysteria.png"
+    },
+    {
+      "id": "K24P03",
+      "name": "Eruption",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_eruption.png"
+    },
+    {
+      "id": "K25P01",
+      "name": "Deadlock",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Gemini/iconPerks_deadlock.png"
+    },
+    {
+      "id": "K25P02",
+      "name": "Hex: Plaything",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Gemini/iconPerks_hexPlaything.png"
+    },
+    {
+      "id": "K25P03",
+      "name": "Scourge Hook: Gift of Pain",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Gemini/iconPerks_scourgeHookGiftOfPain.png"
+    },
+    {
+      "id": "K26P01",
+      "name": "Grim Embrace",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_grimEmbrace.png"
+    },
+    {
+      "id": "K26P02",
+      "name": "Scourge Hook: Pain Resonance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_painResonance.png"
+    },
+    {
+      "id": "K26P03",
+      "name": "Hex: Pentimento",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_hexPentimento.png"
+    },
+    {
+      "id": "K27P01",
+      "name": "Scourge Hook: Floods of Rage",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_floodOfRage.png"
+    },
+    {
+      "id": "K27P02",
+      "name": "Call of Brine",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_callOfBrine.png"
+    },
+    {
+      "id": "K27P03",
+      "name": "Merciless Storm",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_mercilessStorm.png"
+    },
+    {
+      "id": "K28P01",
+      "name": "Dissolution",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_dissolution.png"
+    },
+    {
+      "id": "K28P02",
+      "name": "Darkness Revealed",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_darknessRevelated.png"
+    },
+    {
+      "id": "K28P03",
+      "name": "Septic Touch",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_septicTouch.png"
+    },
+    {
+      "id": "K29P01",
+      "name": "Superior Anatomy",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Orion/iconPerks_superiorAnatomy.png"
+    },
+    {
+      "id": "K29P02",
+      "name": "Awakened Awareness",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Orion/iconPerks_awakenedAwarenesss.png"
+    },
+    {
+      "id": "K29P03",
+      "name": "Terminus",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Orion/iconPerks_terminus.png"
+    },
+    {
+      "id": "K30P01",
+      "name": "Nowhere to Hide",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_nowhereToHide.png"
+    },
+    {
+      "id": "K30P02",
+      "name": "Hex: Face the Darkness",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_hexFaceTheDarkness.png"
+    },
+    {
+      "id": "K30P03",
+      "name": "Hubris",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_hubris.png"
+    },
+    {
+      "id": "K31P01",
+      "name": "Game Afoot",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_gameAfoot.png"
+    },
+    {
+      "id": "K31P02",
+      "name": "THWACK!",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_thwack.png"
+    },
+    {
+      "id": "K31P03",
+      "name": "Leverage",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_leverage.png"
+    },
+    {
+      "id": "K32P01",
+      "name": "Genetic Limits",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_geneticLimits.png"
+    },
+    {
+      "id": "K32P02",
+      "name": "Forced Hesitation",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_forcedHesitation.png"
+    },
+    {
+      "id": "K32P03",
+      "name": "Machine Learning",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_selfAware.png"
+    },
+    {
+      "id": "K33P01",
+      "name": "Ultimate Weapon",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_ultimateWeapon.png"
+    },
+    {
+      "id": "K33P02",
+      "name": "Rapid Brutality",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_rapidBrutality.png"
+    },
+    {
+      "id": "K33P03",
+      "name": "Alien Instinct",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_alienInstinct.png"
+    },
+    {
+      "id": "K34P01",
+      "name": "Hex: Two Can Play",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yerkes/iconPerks_twoCanPlay.png"
+    },
+    {
+      "id": "K34P02",
+      "name": "Friends ‘Til the End",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yerkes/iconPerks_friendsTillTheEnd.png"
+    },
+    {
+      "id": "K34P03",
+      "name": "Batteries Included",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Yerkes/iconPerks_batteriesIncluded.png"
+    },
+    {
+      "id": "K35P01",
+      "name": "Unbound",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Applepie/iconPerks_unbound.png"
+    },
+    {
+      "id": "K35P02",
+      "name": "Unforeseen",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Applepie/iconPerks_unforeseen.png"
+    },
+    {
+      "id": "K35P03",
+      "name": "Undone",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Applepie/iconPerks_undone.png"
+    },
+    {
+      "id": "K36P01",
+      "name": "Weave Attunement",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Churros/iconPerks_weaveAttunement.png"
+    },
+    {
+      "id": "K36P02",
+      "name": "Languid Touch",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Churros/iconPerks_languidTouch.png"
+    },
+    {
+      "id": "K36P03",
+      "name": "Dark Arrogance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Churros/iconPerks_darkArrogance.png"
+    },
+    {
+      "id": "K37P01",
+      "name": "Hex: Wretched Fate",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_hexWretchedFate.png"
+    },
+    {
+      "id": "K37P02",
+      "name": "Human Greed",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_humanGreed.png"
+    },
+    {
+      "id": "K37P03",
+      "name": "Dominance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_dominance.png"
+    },
+    {
+      "id": "Kindred",
+      "name": "Kindred",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_kindred.png"
+    },
+    {
+      "id": "Leader",
+      "name": "Leader",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_leader.png"
+    },
+    {
+      "id": "LeftBehind",
+      "name": "Left Behind",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/L4D/iconPerks_leftBehind.png"
+    },
+    {
+      "id": "Lightborn",
+      "name": "Lightborn",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_lightborn.png"
+    },
+    {
+      "id": "Lightweight",
+      "name": "Lightweight",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_lightweight.png"
+    },
+    {
+      "id": "Lithe",
+      "name": "Lithe",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_lithe.png"
+    },
+    {
+      "id": "LuckyBreak",
+      "name": "Lucky Break",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_luckyBreak.png"
+    },
+    {
+      "id": "MadGrit",
+      "name": "Mad Grit",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Kenya/iconPerks_madGrit.png"
+    },
+    {
+      "id": "MakeYourChoice",
+      "name": "Make your Choice",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Finland/iconPerks_makeYourChoice.png"
+    },
+    {
+      "id": "Mindbreaker",
+      "name": "Mindbreaker",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_mindBreaker.png"
+    },
+    {
+      "id": "MonitorAndAbuse",
+      "name": "Monitor & Abuse",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_monitorAndAbuse.png"
+    },
+    {
+      "id": "Monstrous_Shrine",
+      "name": "Scourge Hook: Monstrous Shrine",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_monstrousShrine.png"
+    },
+    {
+      "id": "Nemesis",
+      "name": "Nemesis",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_nemesis.png"
+    },
+    {
+      "id": "NoMither",
+      "name": "No Mither",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_noMither.png"
+    },
+    {
+      "id": "No_One_Escapes_Death",
+      "name": "Hex: No One Escapes Death",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_noOneEscapesDeath.png"
+    },
+    {
+      "id": "No_One_Left_Behind",
+      "name": "No One Left Behind",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_noOneLeftBehind.png"
+    },
+    {
+      "id": "NurseCalling",
+      "name": "A Nurse's Calling",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_aNursesCalling.png"
+    },
+    {
+      "id": "ObjectOfObsession",
+      "name": "Object of Obsession",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_objectOfObsession.png"
+    },
+    {
+      "id": "OffTheRecord",
+      "name": "Off the Record",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_offTheRecord.png"
+    },
+    {
+      "id": "Open_Handed",
+      "name": "Open-Handed",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_openHanded.png"
+    },
+    {
+      "id": "OverwhelmingPresence",
+      "name": "Overwhelming Presence",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_overwhelmingPresence.png"
+    },
+    {
+      "id": "Pharmacy",
+      "name": "Pharmacy",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/England/iconPerks_pharmacy.png"
+    },
+    {
+      "id": "Play_With_Your_Food",
+      "name": "Play With Your Food",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_playWithYourFood.png"
+    },
+    {
+      "id": "Plunderers_Instinct",
+      "name": "Plunderer's Instinct",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_plunderersInstinct.png"
+    },
+    {
+      "id": "Poised",
+      "name": "Poised",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Mali/iconPerks_poised.png"
+    },
+    {
+      "id": "pop_goes_the_weasel",
+      "name": "Pop Goes the Weasel",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Guam/iconPerks_popGoesTheWeasel.png"
+    },
+    {
+      "id": "Predator",
+      "name": "Predator",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_predator.png"
+    },
+    {
+      "id": "Premonition",
+      "name": "Premonition",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_premonition.png"
+    },
+    {
+      "id": "Prove_Thyself",
+      "name": "Prove Thyself",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_proveThyself.png"
+    },
+    {
+      "id": "QuickQuiet",
+      "name": "Quick & Quiet",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_quickAndQuiet.png"
+    },
+    {
+      "id": "Rancor",
+      "name": "Rancor",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_hatred.png"
+    },
+    {
+      "id": "RedHerring",
+      "name": "Red Herring",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ukraine/iconPerks_redHerring.png"
+    },
+    {
+      "id": "RememberMe",
+      "name": "Remember Me",
+      "role": "killer",
+      "image": "UI/Icons/Perks/England/iconPerks_rememberMe.png"
+    },
+    {
+      "id": "RepressedAlliance",
+      "name": "Repressed Alliance ",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wales/iconPerks_repressedAlliance.png"
+    },
+    {
+      "id": "Resilience",
+      "name": "Resilience",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_resilience.png"
+    },
+    {
+      "id": "S24P01",
+      "name": "Appraisal",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_appraisal.png"
+    },
+    {
+      "id": "S24P02",
+      "name": "Deception",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_deception.png"
+    },
+    {
+      "id": "S24P03",
+      "name": "Power Struggle",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Aurora/iconPerks_powerStruggle.png"
+    },
+    {
+      "id": "S25P01",
+      "name": "Fast Track",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Comet/iconPerks_fastTrack.png"
+    },
+    {
+      "id": "S25P02",
+      "name": "Smash Hit",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Comet/iconPerks_smashHit.png"
+    },
+    {
+      "id": "S25P03",
+      "name": "Self-Preservation",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Comet/iconPerks_self-Preservation.png"
+    },
+    {
+      "id": "S26P01",
+      "name": "Counterforce",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_counterforce.png"
+    },
+    {
+      "id": "S26P02",
+      "name": "Resurgence",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_resurgence.png"
+    },
+    {
+      "id": "S26P03",
+      "name": "Blast Mine",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_blastMine.png"
+    },
+    {
+      "id": "S27P01",
+      "name": "Bite the Bullet",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_biteTheBullet.png"
+    },
+    {
+      "id": "S27P02",
+      "name": "Flashbang",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_flashbang.png"
+    },
+    {
+      "id": "S27P03",
+      "name": "Rookie Spirit",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclipse/iconPerks_rookieSpirit.png"
+    },
+    {
+      "id": "S28P01",
+      "name": "Clairvoyance",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Hubble/iconPerks_clairvoyance.png"
+    },
+    {
+      "id": "S28P02",
+      "name": "Boon: Circle of Healing",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Hubble/iconPerks_boonCircleOfHealing.png"
+    },
+    {
+      "id": "S28P03",
+      "name": "Boon: Shadow Step",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Hubble/iconPerks_boonShadowStep.png"
+    },
+    {
+      "id": "S29P01",
+      "name": "Overcome",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_overcome.png"
+    },
+    {
+      "id": "S29P02",
+      "name": "Corrective Action",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_correctiveAction.png"
+    },
+    {
+      "id": "S29P03",
+      "name": "Boon: Exponential",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ion/T_iconPerks_boonExponential.png"
+    },
+    {
+      "id": "S30P01",
+      "name": "Parental Guidance",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_parentalGuidance.png"
+    },
+    {
+      "id": "S30P02",
+      "name": "Empathic Connection",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_empathicConnection.png"
+    },
+    {
+      "id": "S30P03",
+      "name": "Boon: Dark Theory",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kepler/iconPerks_darkTheory.png"
+    },
+    {
+      "id": "S31P01",
+      "name": "Inner Focus",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_innerFocus.png"
+    },
+    {
+      "id": "S31P02",
+      "name": "Residual Manifest",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_residualManifest.png"
+    },
+    {
+      "id": "S31P03",
+      "name": "Overzealous",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Meteor/iconPerks_overzealous.png"
+    },
+    {
+      "id": "S32P01",
+      "name": "Wiretap",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_wiretap.png"
+    },
+    {
+      "id": "S32P02",
+      "name": "Reactive Healing",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_reactiveHealing.png"
+    },
+    {
+      "id": "S32P03",
+      "name": "Low Profile",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_lowProfile.png"
+    },
+    {
+      "id": "S33P01",
+      "name": "Better Than New",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_betterThanNew.png"
+    },
+    {
+      "id": "S33P02",
+      "name": "Reassurance",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_reassurance.png"
+    },
+    {
+      "id": "S33P03",
+      "name": "Hyperfocus",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Orion/iconPerks_hyperfocus.png"
+    },
+    {
+      "id": "S34P01",
+      "name": "Potential Energy",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_potentialEnergy.png"
+    },
+    {
+      "id": "S34P02",
+      "name": "Fogwise",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_fogwise.png"
+    },
+    {
+      "id": "S34P03",
+      "name": "Quick Gambit",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Quantum/iconPerks_vittoriosGambit.png"
+    },
+    {
+      "id": "S35P01",
+      "name": "Cut Loose",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_cutLoose.png"
+    },
+    {
+      "id": "S35P02",
+      "name": "Friendly Competition",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_friendlyCompetition.png"
+    },
+    {
+      "id": "S35P03",
+      "name": "Teamwork: Power of Two",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_teamworkPowerOfTwo.png"
+    },
+    {
+      "id": "S36P01",
+      "name": "Background Player",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_backgroundPlayer.png"
+    },
+    {
+      "id": "S36P02",
+      "name": "Blood Rush",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_bloodRush.png"
+    },
+    {
+      "id": "S36P03",
+      "name": "Teamwork: Collective Stealth",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Saturn/iconPerks_teamworkCollectiveStealth.png"
+    },
+    {
+      "id": "S37P01",
+      "name": "Troubleshooter",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_troubleshooter.png"
+    },
+    {
+      "id": "S37P02",
+      "name": "Made for This",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_madeForThis.png"
+    },
+    {
+      "id": "S37P03",
+      "name": "Scavenger",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Umbra/IconPerks_scavenger.png"
+    },
+    {
+      "id": "S38P01",
+      "name": "Dramaturgy",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Venus/iconPerks_dramaturgy.png"
+    },
+    {
+      "id": "S38P02",
+      "name": "Scene Partner",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Venus/iconPerks_scenePartner.png"
+    },
+    {
+      "id": "S38P03",
+      "name": "Plot Twist",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Venus/iconPerks_plotTwist.png"
+    },
+    {
+      "id": "S39P01",
+      "name": "Lucky Star",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_luckyStar.png"
+    },
+    {
+      "id": "S39P02",
+      "name": "Chemical Trap",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_chemicalTrap.png"
+    },
+    {
+      "id": "S39P03",
+      "name": "Light-footed",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wormhole/iconPerks_lightFooted.png"
+    },
+    {
+      "id": "S40P01",
+      "name": "Champion of Light",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Zodiac/iconsPerks_championOfLight.png"
+    },
+    {
+      "id": "S40P02",
+      "name": "Boon: Illumination",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Zodiac/iconsPerks_illumination.png"
+    },
+    {
+      "id": "S40P03",
+      "name": "Deadline",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Zodiac/iconsPerks_deadline.png"
+    },
+    {
+      "id": "S41P01",
+      "name": "Invocation: Weaving Spiders",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Applepie/iconsPerks_invocationWeavingSpiders.png"
+    },
+    {
+      "id": "S41P02",
+      "name": "Strength in Shadows",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Applepie/iconsPerks_strengthInShadows.png"
+    },
+    {
+      "id": "S41P03",
+      "name": "Wicked",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Applepie/iconsPerks_wicked.png"
+    },
+    {
+      "id": "S42P01",
+      "name": "Mirrored Illusion",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Churros/iconPerks_mirroredIllusion.png"
+    },
+    {
+      "id": "S42P02",
+      "name": "Bardic Inspiration",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Churros/iconPerks_bardicInspiration.png"
+    },
+    {
+      "id": "S42P03",
+      "name": "Still Sight",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Churros/iconPerks_stillSight.png"
+    },
+    {
+      "id": "S43P01",
+      "name": "Finesse",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Donut/iconPerks_finesse.png"
+    },
+    {
+      "id": "S43P02",
+      "name": "Hardened",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Donut/iconPerks_hardened.png"
+    },
+    {
+      "id": "S43P03",
+      "name": "Specialist",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Donut/iconPerks_specialist.png"
+    },
+    {
+      "id": "S44P01",
+      "name": "Eyes of Belmont",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_eyesOfBelmont.png"
+    },
+    {
+      "id": "S44P02",
+      "name": "Exultation",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_exultation.png"
+    },
+    {
+      "id": "S44P03",
+      "name": "Moment of Glory",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Eclair/iconPerks_momentOfGlory.png"
+    },
+    {
+      "id": "Saboteur",
+      "name": "Saboteur",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_saboteur.png"
+    },
+    {
+      "id": "Save_The_Best_For_Last",
+      "name": "Save the best for last",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_saveTheBestForLast.png"
+    },
+    {
+      "id": "SecondWind",
+      "name": "Second Wind",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_secondWind.png"
+    },
+    {
+      "id": "SelfSufficient",
+      "name": "Unbreakable",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/L4D/iconPerks_unbreakable.png"
+    },
+    {
+      "id": "Self_Care",
+      "name": "Self-Care",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_selfCare.png"
+    },
+    {
+      "id": "Shadowborn",
+      "name": "Shadowborn",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_shadowborn.png"
+    },
+    {
+      "id": "Slippery_Meat",
+      "name": "Slippery Meat",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_slipperyMeat.png"
+    },
+    {
+      "id": "Sloppy_Butcher",
+      "name": "Sloppy Butcher",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_sloppyButcher.png"
+    },
+    {
+      "id": "Small_Game",
+      "name": "Small Game",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_smallGame.png"
+    },
+    {
+      "id": "SoleSurvivor",
+      "name": "Sole Survivor",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC2/iconPerks_soleSurvivor.png"
+    },
+    {
+      "id": "Solidarity",
+      "name": "Solidarity",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Mali/iconPerks_solidarity.png"
+    },
+    {
+      "id": "SoulGuard",
+      "name": "Soul Guard",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Wales/iconPerks_soulGuard.png"
+    },
+    {
+      "id": "Spies_From_The_Shadows",
+      "name": "Spies from the Shadows",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_spiesFromTheShadows.png"
+    },
+    {
+      "id": "Spine_Chill",
+      "name": "Spine Chill",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_spineChill.png"
+    },
+    {
+      "id": "SpiritFury",
+      "name": "Spirit Fury",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Haiti/iconPerks_spiritFury.png"
+    },
+    {
+      "id": "Sprint_Burst",
+      "name": "Sprint Burst",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_sprintBurst.png"
+    },
+    {
+      "id": "StakeOut",
+      "name": "Stake Out",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Finland/iconPerks_stakeOut.png"
+    },
+    {
+      "id": "Streetwise",
+      "name": "Streetwise",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_streetwise.png"
+    },
+    {
+      "id": "Stridor",
+      "name": "Stridor",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_stridor.png"
+    },
+    {
+      "id": "Surge",
+      "name": "Surge",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Qatar/iconPerks_surge.png"
+    },
+    {
+      "id": "Surveillance",
+      "name": "Surveillance",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Finland/iconPerks_surveillance.png"
+    },
+    {
+      "id": "Technician",
+      "name": "Technician",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC4/iconPerks_technician.png"
+    },
+    {
+      "id": "Tenacity",
+      "name": "Tenacity",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Finland/iconPerks_tenacity.png"
+    },
+    {
+      "id": "TerritorialImperative",
+      "name": "Territorial Imperative",
+      "role": "killer",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_territorialImperative.png"
+    },
+    {
+      "id": "Thanatophobia",
+      "name": "Thanatophobia",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_thatanophobia.png"
+    },
+    {
+      "id": "TheMettleOfMan",
+      "name": "Mettle of Man",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Ash/iconPerks_mettleOfMan.png"
+    },
+    {
+      "id": "This_Is_Not_Happening",
+      "name": "This Is Not Happening",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_thisIsNotHappening.png"
+    },
+    {
+      "id": "ThrillingTremors",
+      "name": "Thrilling Tremors",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Oman/iconPerks_thrillingTremors.png"
+    },
+    {
+      "id": "Tinkerer",
+      "name": "Tinkerer",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_tinkerer.png"
+    },
+    {
+      "id": "TrailofTorment",
+      "name": "Trail of Torment",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Wales/iconPerks_trailOfTorment.png"
+    },
+    {
+      "id": "Unnerving_Presence",
+      "name": "Unnerving Presence",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_unnervingPresence.png"
+    },
+    {
+      "id": "Unrelenting",
+      "name": "Unrelenting",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_unrelenting.png"
+    },
+    {
+      "id": "Up_The_Ante",
+      "name": "Up the Ante",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC3/iconPerks_upTheAnte.png"
+    },
+    {
+      "id": "Urban_Evasion",
+      "name": "Urban Evasion",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_urbanEvasion.png"
+    },
+    {
+      "id": "Vigil",
+      "name": "Vigil",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/England/iconPerks_vigil.png"
+    },
+    {
+      "id": "Visionary",
+      "name": "Visionary",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Yemen/iconPerks_visionary.png"
+    },
+    {
+      "id": "WakeUp",
+      "name": "Wake Up!",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/England/iconPerks_wakeUp.png"
+    },
+    {
+      "id": "WellMakeIt",
+      "name": "We'll make it",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/iconPerks_wellMakeIt.png"
+    },
+    {
+      "id": "WereGonnaLiveForever",
+      "name": "We're Gonna Live Forever",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/DLC5/iconPerks_wereGonnaLiveForever.png"
+    },
+    {
+      "id": "Whispers",
+      "name": "Whispers",
+      "role": "killer",
+      "image": "UI/Icons/Perks/iconPerks_whispers.png"
+    },
+    {
+      "id": "WindowsOfOpportunity",
+      "name": "Windows of Opportunity",
+      "role": "survivor",
+      "image": "UI/Icons/Perks/Kate/iconPerks_windowsOfOpportunity.png"
+    },
+    {
+      "id": "ZanshinTactics",
+      "name": "Zanshin Tactics",
+      "role": "killer",
+      "image": "UI/Icons/Perks/Sweden/iconPerks_zanshinTactics.png"
+    }
+  ]
+}
